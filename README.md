@@ -1,7 +1,8 @@
 # ReactButtons
 
 Assignment:
-Building on what we did in class, create an application that has three buttons. 
+
+Create an application that has three buttons. 
 
 On top of the first button, there should be a number. When the button is clicked, the number should increment. 
 
